@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "title": "hai",
+      "content": "hai anas",
+      "color": "#fff9c4",
+      "id": "q-Gy_9r5Gro"
+    },
+    {
+      "title": "hello",
+      "content": "hello anas",
+      "color": "#c8e6c9",
+      "id": "ykrvzFyNvZc"
+    },
+    {
+      "title": "hey",
+      "content": "hey anas",
+      "color": "#fff9c4",
+      "id": "KnLNvGlmBqQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
